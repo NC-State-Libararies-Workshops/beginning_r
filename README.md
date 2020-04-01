@@ -2,7 +2,7 @@
 
 This is tutorial for those who are just starting with R. It is designed to be used both as a resource for workshops and also as a self guided tutorial to R.
 
-You can access the tutorial page [here](https://olendorf.github.io/beginning_r/). The home pages provides a brief description of the content, including a list 
+You can access the tutorial page [here]https://nc-state-libararies-workshops.github.io/beginning_r/). The home pages provides a brief description of the content, including a list 
 of tutorial Units. Instructors notes are there to provide those giving live workshops extra guidance. There are also slides for use in a workshop. Finally, other
 resources gives some websites mentioned in the tutorial or othrwise helpful to learning and using R.
 
