@@ -38,7 +38,7 @@ instructors_note: |
 
 
 
-For our grand finale we'll be exploring the **ggplot2** package to create some visualizations. 
+Next we'll be exploring the **ggplot2** package to create some visualizations. 
 While **ggplot2** is very popular, its best to think of it as the core to a cluster of 
 extensions. In fact, **ggplot2** refers to itself as belonging to the **tidyverse** ecosystem.
 You don't need to know too much about that except that at its core, **tidyverse** is 
