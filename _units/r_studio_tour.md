@@ -38,6 +38,11 @@ instructors_note: |
 
 ---
 
+R and R Studio are really two diffrent things. R is a statistical programming language and 
+an ecosystem of packages. Historically R was used on the command line and users would
+open up multiple terminal windows for different purposes, arranging them together on their
+monitor.
+
 R Studio is an Integrated Developement Environment (IDE) for R. An IDE is really just a tool
 that brings several components that are useful for working with a programming language. It
 is entirely possible to work with R successfully using only the command line in your
@@ -46,7 +51,7 @@ an IDE like R Studio.
 
 To get started, start R Studio. If it doesn't start you off with a project, go to 
 **_File/New Project..._**. Then click **New Directory**, **New Project**, 
-enter `learning_R` as the **Directory name: ** and click **Create Project**. The R 
+enter `learning_R` as the **Directory name:** and click **Create Project**. The R 
 Studio environment can be divided into four regions, labeled A, B, C and D (fig. 1). 
 Each of these areas have a broad function, most of them with several tabs. We'll go 
 through each one quickly to get us started.
@@ -101,7 +106,7 @@ print(1 == 1)
 
 You can also run a script line by line. Click on any line to put the cursor then and 
 click the **Run** button {% include image_tag.html 
-        src="/assets/img/units/run_button.png" alt="The run button" width="52px" %}. 
+        url="/assets/img/units/run_button.png" alt="The run button" width="52px" %}. 
 You will see only that result ouput.
 
 

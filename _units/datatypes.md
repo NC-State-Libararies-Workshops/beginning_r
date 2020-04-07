@@ -210,8 +210,8 @@ Lists are like vectors except the items can be of different types.
 
 ```r
 
-> l <- list(1, TRUE, "sheep", 3 + 4i)
-> l
+> my_list <- list(1, TRUE, "sheep", 3 + 4i)
+> my_list
 [[1]]
 [1] 1
 

@@ -10,3 +10,5 @@ title: Beginning R (DEV)
 
 baseurl: ""
 
+environment: "development"
+

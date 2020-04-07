@@ -93,8 +93,8 @@ has been stored under the variable **x**. We can now use this for future analyse
 
 ```r
 
-> x = (4 + 4)/3
-> a = 27
+> x <- (4 + 4)/3
+> a <- 27
 > a^x   # The carat "^" means to the power of. 2^2 = 4
 [1] 6561
 
@@ -128,8 +128,8 @@ and make your script look like this.
 
 ```r
 
-y = 27
-x = (4 + 4)/3
+y <- 27
+x <- (4 + 4)/3
 print(y^x)   # The print function sends the result to your console.
 
 ```

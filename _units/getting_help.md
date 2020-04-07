@@ -100,7 +100,10 @@ documenation on it. It also may have solutoins or questions about the package si
 
 
 
+## Try It Out
 
+* Look for help on the **boxplot** fimction in R.
+* 
 
 
 
